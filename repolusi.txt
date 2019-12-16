@@ -3,4 +3,5 @@ RESOLUSI
  - menguasai bahasa pemograman
  - memiliki satu project program
  - bergabung dengan komunitas
+ - bisa membuat aplikasi
  
